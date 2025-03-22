@@ -57,8 +57,8 @@ This project analyzes customer data and sales trends for the Chinook Music Store
 - Use findings to *optimize marketing efforts, personalize recommendations, and improve customer retention*.
 
 ## Tools Used
-- *SQL* (PostgreSQL, MySQL, SQLite) – Querying and data retrieval.
-- *Python* (Pandas, Matplotlib, Seaborn) – Advanced analysis and visualization.
+- *SQL* (MySQL) – Querying and data retrieval.
+- *Excel* – Advanced analysis and visualization.
 - *PowerPoint* – Presentation of key insights and recommendations.
 
 ## Conclusion
@@ -66,5 +66,5 @@ This analysis provides a data-driven approach to improving Chinook Music Store�
 
 ---
 
-*Author:* Chinook Music Store Data Analysis Team  
+*Author:* Anchal Rani Barnowal 
 *Date:* March 2025
